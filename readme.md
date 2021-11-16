@@ -1,4 +1,4 @@
-## Personnel
+## Contributors
 - Sameep Pote - M.Eng. Robotics Student at University of Maryland College Park. 
 - Atharva Paralikar - M.Eng. Robotics Student at University of Maryland College Park. 
 
